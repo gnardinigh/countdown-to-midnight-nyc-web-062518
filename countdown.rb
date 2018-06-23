@@ -1,6 +1,6 @@
 def countdown(time)
   
-  while time>=0
+  while time>0
   
    if time!=0
      puts "#{time} SECONDS!"
