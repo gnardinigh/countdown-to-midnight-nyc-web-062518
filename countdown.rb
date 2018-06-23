@@ -6,5 +6,5 @@ def countdown(time)
      time-=1 
    
   end 
-  puts "HAPPY NEW YEAR!"
+  return "HAPPY NEW YEAR!"
 end
